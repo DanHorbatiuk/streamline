@@ -1,0 +1,17 @@
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/security/CustomUserDetails.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/controller/DeviceController.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/enums/UserRole.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/controller/UserController.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/entities/User.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/UserRepository.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/enums/UserStatus.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/security/CustomAccessDeniedHandler.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/DeviceRepository.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/enums/AuthProvider.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/security/CognitoLogoutHandler.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/service/UserService.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/persistance/entities/Device.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/StreamlimeApiApplication.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/security/SecurityConfiguration.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/service/DeviceService.java
+/home/dan/IdeaProjects/streamline/streamline-api/src/main/java/dev/horbatiuk/streamlineapi/controller/AuthController.java
